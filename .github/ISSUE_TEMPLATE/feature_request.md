@@ -10,7 +10,7 @@ assignees: ''
 **Important notices**
 Before you add a new report, we ask you kindly to acknowledge the following:
 
-- [ ] I have read the contributing guide lines at https://github.com/opnsense/plugins/blob/master/CONTRIBUTING.md
+- [ ] I have read the contributing guide lines at https://github.com/yetitecnologia/plugins/blob/master/CONTRIBUTING.md
 - [ ] I have searched the existing issues, open and closed, and I'm convinced that mine is new.
 - [ ] When the request is meant for an existing plugin, I've added its name to the title.
 

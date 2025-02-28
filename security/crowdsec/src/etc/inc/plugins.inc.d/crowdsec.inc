@@ -45,7 +45,7 @@ function crowdsec_firewall(Plugin $fw)
 
     add_alias_if_not_exist('crowdsec_blacklists', 'CrowdSec (IPv4)', 'IPv4');
 
-    // https://github.com/opnsense/core/blob/master/src/opnsense/mvc/app/library/OPNsense/Firewall/FilterRule.php
+    // https://github.com/yetitecnologia/core/blob/master/src/opnsense/mvc/app/library/OPNsense/Firewall/FilterRule.php
 
     $fw->registerFilterRule(
         1, /* priority */

@@ -157,8 +157,8 @@ Plugin Changelog
 * fix URL flag not stored (contributed by jkellerer) [1]
 * allow to whitelist specific source IPs in the web application firewall (contributed by Julio Cesar Camargo) [2]
 
-[1] https://github.com/opnsense/plugins/pull/1375
-[2] https://github.com/opnsense/plugins/pull/1310
+[1] https://github.com/yetitecnologia/plugins/pull/1375
+[2] https://github.com/yetitecnologia/plugins/pull/1310
 
 1.13
 
@@ -224,7 +224,7 @@ Plugin Changelog
 * Add PROXY backend support for Streams
 * Add support for better whitelist rules in the WAF
 
-[1] https://github.com/opnsense/plugins/pull/1035
+[1] https://github.com/yetitecnologia/plugins/pull/1035
 
 1.4 (Development only)
 
@@ -238,10 +238,10 @@ Plugin Changelog
 * fix: translate a german string in upstream server to english
 * replace headers instead of just adding our own (duplication issue #971), suppress X-Powered-By from Upstream [4]
 
-[1] https://github.com/opnsense/plugins/pull/930
-[2] https://github.com/opnsense/plugins/pull/982
-[3] https://github.com/opnsense/plugins/pull/934
-[4] https://github.com/opnsense/plugins/issues/971
+[1] https://github.com/yetitecnologia/plugins/pull/930
+[2] https://github.com/yetitecnologia/plugins/pull/982
+[3] https://github.com/yetitecnologia/plugins/pull/934
+[4] https://github.com/yetitecnologia/plugins/issues/971
 
 1.3
 

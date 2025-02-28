@@ -221,7 +221,7 @@ POSSIBILITY OF SUCH DAMAGE.
               <li>{{ lang._("Copy a certificate to one or more other hosts using the %sSFTP/SSH protocol%s. This way OPNsense can be used as a central authority for ACME certificates and secrets for DNS providers can be kept on a secure device.") | format('<b>', '</b>') }}</li>
               <li>{{ lang._("Deploy a certificate to an external service, for example a %sCDN%s provider.") | format('<b>', '</b>') }}</li>
             </ul>
-            <p>{{ lang._("This plugin can theoretically utilize most of %sacme.sh's webhooks%s. However, not all webhooks are currently implemented. Feel free to submit a %sfeature request%s if support for a acme.sh webhook should be added to the plugin.") | format('<a href="https://github.com/acmesh-official/acme.sh/wiki/deployhooks">', '</a>', '<a href="https://github.com/opnsense/plugins/issues">', '</a>') }}</p>
+            <p>{{ lang._("This plugin can theoretically utilize most of %sacme.sh's webhooks%s. However, not all webhooks are currently implemented. Feel free to submit a %sfeature request%s if support for a acme.sh webhook should be added to the plugin.") | format('<a href="https://github.com/acmesh-official/acme.sh/wiki/deployhooks">', '</a>', '<a href="https://github.com/yetitecnologia/plugins/issues">', '</a>') }}</p>
         </div>
     </div>
 

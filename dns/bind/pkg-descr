@@ -141,7 +141,7 @@ Plugin Changelog
 * Automatically replace "@" with a "." in zone contact e-mail address[1]
 * Assorted UX and help text improvements[1]
 
-[1] https://github.com/opnsense/plugins/pull/1431
+[1] https://github.com/yetitecnologia/plugins/pull/1431
 
 1.6
 

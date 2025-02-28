@@ -32,7 +32,7 @@ so do not be afraid to ask.
 Feature requests that relate to core components of OPNsense can be provided
 using the core repository:
 
-https://github.com/opnsense/core/issues
+https://github.com/yetitecnologia/core/issues
 
 Stale issues are timed out after several months of inactivity.
 

@@ -23,7 +23,7 @@
     ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
     POSSIBILITY OF SUCH DAMAGE.
     ----------------------------------------------------------------------------------------------------
-    Azure DNS provider, inspired by https://github.com/opnsense/plugins/pull/1547
+    Azure DNS provider, inspired by https://github.com/yetitecnologia/plugins/pull/1547
 
     List DNS zones using Azure cloud shell
 

@@ -391,7 +391,7 @@ select.selectpicker {
   float: none;
 }
 
-/* OPNsense edit to fix https://github.com/opnsense/core/issues/2612 :
+/* OPNsense edit to fix https://github.com/yetitecnologia/core/issues/2612 :
  * Move checkmarks to left hand side of the dropdown.
  */
 .bootstrap-select .dropdown-menu > li > a {
