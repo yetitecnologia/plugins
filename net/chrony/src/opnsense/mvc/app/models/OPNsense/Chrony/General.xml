@@ -20,7 +20,7 @@
             <Required>Y</Required>
         </ntsnocert>
         <peers type="HostnameField">
-            <default>0.opnsense.pool.ntp.org</default>
+            <default>a.st1.ntp.br</default>
             <Required>Y</Required>
             <FieldSeparator>,</FieldSeparator>
             <asList>Y</asList>
